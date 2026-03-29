@@ -1,6 +1,6 @@
 # 🌐 Gaber Samir - Portfolio Email Template
 
-![Portfolio Email Banner](https://github.com/GaberSamir/Email-Portfolio/blob/main/Images/Galaxy-Travel.gif)
+![Portfolio Email Banner](https://github.com/GaberSamir/Email-Portfolio/blob/main/Images/screenshot%20portfolio.png)
 
 A modern, responsive **email template** for showcasing digital portfolios with interactive elements and elegant animations.
 Perfect for **developers, designers, and freelancers** to share their work professionally.
