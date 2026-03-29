@@ -78,7 +78,7 @@ Email-Portfolio
 
 ## 📸 Screenshot
 
-![Project Screenshot](https://via.placeholder.com/800x400/111/fff?text=Project+Preview)
+![Project Screenshot](https://github.com/GaberSamir/Email-Portfolio/blob/main/Images/screenshot%20portfolio.png)
 
 ---
 
