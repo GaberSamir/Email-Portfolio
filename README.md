@@ -5,7 +5,7 @@
 A modern, responsive email template for showcasing digital portfolios with interactive elements and elegant animations. Perfect for developers, designers, and freelancers to share their work professionally.
 
 ## 🚀 Live Preview
-[Click to View Live Demo](#) | [Download Source Code](#)
+[Click to View Live Demo] https://gabersamir.github.io/Email-Portfolio/ | [Download Source Code](#)
 
 ## ✨ Features
 
